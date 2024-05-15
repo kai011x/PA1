@@ -1,6 +1,7 @@
 2018312626
 opensource_software
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello world
 Good Morning
 <<<<<<< HEAD
@@ -11,3 +12,6 @@ My name is Kimyoungkyun
 =======
 >>>>>>> parent of 7ef5034 (Hello world)
 
+=======
+KimYoungkyun
+>>>>>>> parent of 7ae62f5 (Second Commit Test)
