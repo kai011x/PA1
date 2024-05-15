@@ -2,5 +2,4 @@
 opensource_software
 Hello world
 Good Morning
-Good Night
 
